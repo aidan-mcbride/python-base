@@ -27,6 +27,7 @@ base python project with tooling
 ## Ref Docs
 
 - [hypermodern python series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
+- [sourcery - python best practices](https://sourcery.ai/blog/python-best-practices/)
 
 ### Tangentially Related Docs
 
