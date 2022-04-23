@@ -15,6 +15,7 @@ dev = [
     "isort>=5.10.1",
     "mypy>=0.942",
     "pyproject-flake8>=0.0.1a4",
+    "pre-commit>=2.18.1",
 ]
 
 [tool.isort]

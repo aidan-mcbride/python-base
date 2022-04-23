@@ -7,11 +7,15 @@ base python project with tooling
 1. [Install PDM](https://pdm.fming.dev/#installation)
 1. Add your project [metadata](https://peps.python.org/pep-0621/#details) to [`pyproject.toml`](./pyproject.toml). Verify that license, python version, etc. are correct.
 
+1. Install pre-commit hook: `pdm run pre-commit install`
+
 ---
 
 ## Tools
 
 - Package Manager: [PDM](https://pdm.fming.dev/)
+
+- [Pre-commit](https://pre-commit.com/)
 
 - [Black](https://black.readthedocs.io/en/stable/)
 - [iSort](https://github.com/PyCQA/isort)
