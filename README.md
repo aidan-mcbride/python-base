@@ -16,6 +16,8 @@ base python project with tooling
 - [Black](https://black.readthedocs.io/en/stable/)
 - [iSort](https://github.com/PyCQA/isort)
   - ([black compatibility guide](https://pycqa.github.io/isort/docs/configuration/black_compatibility.html))
+- [Flake8](https://github.com/pycqa/flake8)
+  - ([black compatibility guide](https://black.readthedocs.io/en/stable/guides/using_black_with_other_tools.html#flake8))
 
 ## Ref Docs
 
