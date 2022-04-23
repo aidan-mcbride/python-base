@@ -14,6 +14,8 @@ base python project with tooling
 - Package Manager: [PDM](https://pdm.fming.dev/)
 
 - [Black](https://black.readthedocs.io/en/stable/)
+- [iSort](https://github.com/PyCQA/isort)
+  - ([black compatibility guide](https://pycqa.github.io/isort/docs/configuration/black_compatibility.html))
 
 ## Ref Docs
 
