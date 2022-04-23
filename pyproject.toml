@@ -26,7 +26,7 @@ extend-ignore = "E203"
 exclude = "__pypackages__"
 
 [tool.mypy]
-# files= # SET THIS TO YOUR PROJECT
+files = "src/*.py" # SET THIS TO YOUR PROJECT
 ignore_missing_imports = true
 
 [build-system]
