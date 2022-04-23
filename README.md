@@ -13,6 +13,8 @@ base python project with tooling
 
 - Package Manager: [PDM](https://pdm.fming.dev/)
 
+- [Black](https://black.readthedocs.io/en/stable/)
+
 ## Ref Docs
 
 - [hypermodern python series](https://cjolowicz.github.io/posts/hypermodern-python-01-setup/)
