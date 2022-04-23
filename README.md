@@ -2,6 +2,12 @@
 
 base python project with tooling
 
+## Set-up
+
+1. [Install PDM](https://pdm.fming.dev/#installation)
+
+---
+
 ## Tools
 
 - Package Manager: [PDM](https://pdm.fming.dev/)
