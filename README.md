@@ -1,6 +1,6 @@
 # python-base
 
-base python project with tooling
+base python project with tooling to enforce code styles.
 
 ## Set-up
 
